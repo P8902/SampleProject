@@ -15,6 +15,7 @@ namespace UITest1
                 return ConfigureApp
                     .Android
                     .ApkFile("C:\\Users\\windev\\Desktop\\com.companyname.SampleProject.apk")
+                    .EnableLocalScreenshots()
                     .StartApp();
             }
 

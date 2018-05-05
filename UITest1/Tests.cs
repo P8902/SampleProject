@@ -29,7 +29,6 @@ namespace UITest1
         public void AppLaunches()
         {
             app.Screenshot("First screen.");
-            app.Screenshot("First screen.");
             app.Tap(x => x.Marked("TransalateButton"));
             app.WaitForElement(c => c.Text("hello"), timeout: TimeSpan.FromSeconds(30), timeoutMessage: "Please try again...");
             app.Tap(x => x.Button("ok"));
