@@ -1,0 +1,11 @@
+c:\users\windev\source\repos\SampleProject\UITest1\bin\Release\UITest1.dll
+c:\users\windev\source\repos\SampleProject\UITest1\bin\Release\UITest1.pdb
+c:\users\windev\source\repos\SampleProject\UITest1\bin\Release\nunit.framework.dll
+c:\users\windev\source\repos\SampleProject\UITest1\bin\Release\Xamarin.UITest.dll
+c:\users\windev\source\repos\SampleProject\UITest1\bin\Release\nunit.framework.xml
+c:\users\windev\source\repos\SampleProject\UITest1\bin\Release\Xamarin.UITest.xml
+c:\users\windev\source\repos\SampleProject\UITest1\obj\Release\UITest1.csprojResolveAssemblyReference.cache
+c:\users\windev\source\repos\SampleProject\UITest1\obj\Release\UITest1.csproj.CoreCompileInputs.cache
+c:\users\windev\source\repos\SampleProject\UITest1\obj\Release\UITest1.csproj.CopyComplete
+c:\users\windev\source\repos\SampleProject\UITest1\obj\Release\UITest1.dll
+c:\users\windev\source\repos\SampleProject\UITest1\obj\Release\UITest1.pdb
