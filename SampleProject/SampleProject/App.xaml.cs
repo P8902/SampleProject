@@ -20,7 +20,7 @@ namespace SampleProject
 
 		protected override void OnStart ()
 		{
-            AppCenter.Start("android=0581d912-8d9c-4ff6-b2e7-880cb00a8cea;" +"uwp={Your UWP App secret here};" +"ios={Your iOS App secret here}",typeof(Analytics), typeof(Crashes));
+           // AppCenter.Start("android=0581d912-8d9c-4ff6-b2e7-880cb00a8cea;" +"uwp={Your UWP App secret here};" +"ios={Your iOS App secret here}",typeof(Analytics), typeof(Crashes));
         }
 
 		protected override void OnSleep ()
